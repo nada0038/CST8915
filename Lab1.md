@@ -1,4 +1,6 @@
-# LAB 1
+# LAB 1 
+## TECHNICAL REPORT 
+
 ### Front of Store (Vue.js)
 The front-end web application through which consumers communicate with the pet shop is called the Store Front. Vue.js, a JavaScript framework that generates dynamic and responsive user interfaces, is used in its construction. Its functions include presenting product listings that have been obtained from the Product Service and offering an ordering interface. The Store Front serves as an interface between users and the backend services by interacting with the Order Service and Product Service via REST API requests.
 
