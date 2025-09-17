@@ -12,3 +12,6 @@ The Product Service is a Rust-written microservice with a focus on dependability
 
 ### RabbitMQ
 RabbitMQ setup on the Azure virtual machine to serve as the message queue manager. It managed service-to-service communication, primarily order queuing from the Order Service. Then checked that order messages were being handled successfully by opening port 15672 and accessing the administration dashboard.
+
+## YOUTUBE LINK
+https://youtu.be/MsdzJDpKUlU
